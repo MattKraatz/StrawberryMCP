@@ -34,6 +34,7 @@ dotnet run
 - [Model Context Protocol servers](https://github.com/modelcontextprotocol/servers)
 - [Create a minimal MCP server using C# and publish to NuGet](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/build-mcp-server)
 - [Authorization - Model Context Protocol](https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization)
+- [Building Effective AI Agents - Anthropic](https://www.anthropic.com/engineering/building-effective-agents)
 - [YouTube - Jo Van Eyck](https://www.youtube.com/@JoVanEyck)
 
 ---
